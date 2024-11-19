@@ -1,0 +1,19 @@
+{
+  "name": "preentrega",
+  "version": "1.0.0",
+  "description": "preentrega de backend 1 coderhouse",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Zoloaga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "uid": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
